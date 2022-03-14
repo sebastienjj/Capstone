@@ -1,0 +1,43 @@
+.whatApp__navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding: 2rem 6rem 2rem;
+}
+
+.whatApp__navbar-links {
+    flex: 1;
+    display: flex;
+    justify-content:flex-start;
+    align-items:center;
+}
+
+.whatApp__navbar-links_logo{
+    margin-right: 2rem;
+}
+
+.whatApp__navbar-links_logo img {
+    width: 62px;
+    height: 62px;
+}
+
+.whatApp__navbar-links_container {
+    display: flex;
+    flex-direction: row; 
+}
+.whatApp__navbar-sign {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.whatApp__navbar-links_container p,    
+.whatApp__navbar-sign p,  
+.whatApp__navbar-menu_container p {
+    color: #fff;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font: size 18px;
+    line-height: 25px;
+    text-transform: capitalize;
+}
