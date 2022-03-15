@@ -14,12 +14,12 @@ const App = () => {
       <Navbar />
       <Header />
       </div>
-      <Brand />
+      {/* <Brand /> */}
       <WhatApp />
-      <Features />
+      {/* <Features /> */}
       {/* <Possibility /> */}
-      <Cta />
-      <Blog />
+      {/* <Cta />
+      <Blog /> */}
       <Footer />
     </div>
   )

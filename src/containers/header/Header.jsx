@@ -9,14 +9,14 @@ const Header = () => (
       <h1 className="gradient__text">Let&apos;s come together <br></br> A new way of earning </h1>
       <p> A new form of combined peer-to-peer banking and peer-to-peer lending.</p>
 
-      <div className="whatApp__header-content__input">
+      {/* <div className="whatApp__header-content__input">
         <input type="email" placeholder="Your Email Address" />
         <button type="button">Get Started</button>
-      </div>
+      </div> */}
 
       <div className="whatApp__header-content__people">
         {/* <img src={people} /> */}
-        <p>words can be included here </p>
+        {/* <p>words can be included here </p> */}
       </div>
     </div>
 
