@@ -16,7 +16,7 @@
 .whatApp__header-content h1 {
     font-family: var(--font-family);
     font-weight: 800;
-    font-size: 230px;
+    font-size: 234px;
     line-height: 75px;
     letter-spacing: -0.03em;
 }
@@ -24,8 +24,10 @@
 .whatApp__header-content p {
     font-family: var(--font-family);
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 28px;
+    padding: 0 1rem;
+    letter-spacing: 0.0em;
     color: var(--color-text);
 
     margin-top: 1.5rem;

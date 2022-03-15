@@ -1,4 +1,4 @@
-export { default as Blog } from './blog/Wallet';
+export { default as Blog } from './Wallet/Wallet';
 export { default as Features } from './features/Features';
 export { default as Footer } from './footer/Footer';
 export { default as Header } from './header/Header';

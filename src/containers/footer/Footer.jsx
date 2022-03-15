@@ -5,7 +5,7 @@ import './footer.css';
 const Footer = () => (
   <div className="WhatApp__footer section__padding">
     <div className="whatApp__footer-heading">
-      <h1 className="gradient__text"> Let's build the financial gap of the future </h1>
+      <h1 className="gradient__text"> Let's Bridge the Financial gap of the Future </h1>
     </div>
 
     <div className="whatApp__footer-btn">
