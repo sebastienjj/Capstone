@@ -22,7 +22,7 @@ const Navbar = () => {
       </div>
       <div className="whatApp__navbar-sign">
         {/* <p>Sign in</p> */}
-        <button type="button">Login</button>
+        <button href type="button">Login</button>
       </div>
       <div className="whatApp__navbar-menu">
         {toggleMenu
